@@ -7,8 +7,8 @@ I’m constantly learning new tools and frameworks. Here are a few that I work w
 
 - **☁️ Cloud Platforms**: Azure, AWS
 - **⚙️ DevOps Tools**: Kubernetes, Docker, Bicep, Terraform, CI/CD Pipelines, Helm
-- **🐍 Backend Dev**: Python, JavaScript, Node.js, Django, Flask
-- **📡 Networking & Security**: VPN, Firewalls, TLS Certificates
+- **🐍 Backend Dev**: Python, JavaScript, Node.js, Django, Flask, Go
+- **📡 Networking & Security**: VPN, Firewalls, TLS Certificates, Network Design
 - **💾 Databases**: SQL Server, PostgreSQL, CosmosDB
 
 ---
