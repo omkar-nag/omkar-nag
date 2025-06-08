@@ -5,7 +5,7 @@ I’m **Omkar Nag**, a passionate **Cloud Infrastructure** and **DevOps** enthus
 🔧 **Technologies I Work With**  
 I’m constantly learning new tools and frameworks. Here are a few that I work with daily:
 
-- **☁️ Cloud Platforms**: Azure, AWS
+- **☁️ Cloud Platforms**: Azure
 - **⚙️ DevOps Tools**: Kubernetes, Docker, Bicep, Terraform, CI/CD Pipelines, Helm
 - **🐍 Backend Dev**: Python, JavaScript, Node.js, Django, Flask, Go
 - **📡 Networking & Security**: VPN, Firewalls, TLS Certificates, Network Design
